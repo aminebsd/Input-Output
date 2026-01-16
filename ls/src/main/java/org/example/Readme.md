@@ -22,7 +22,7 @@ The goal is to simulate the behavior of the Unix/Linux `ls` command by listing f
 
 ---
 
-## 🧠 Code Explanation
+## Code Explanation
 
 ###  1. Importing Required Classes
 ```java
